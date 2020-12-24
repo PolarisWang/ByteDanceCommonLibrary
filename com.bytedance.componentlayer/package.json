@@ -1,10 +1,12 @@
 {
   "name": "com.bytedance.componentlayer",
-  "version": "1.0.0-preview",
+  "title": "ByteDance Components library",
+  "version": "1.0.1",
   "displayName": "ByteDance Component Layer",
   "description": "Component Library",
   "unity": "2018.1",
   "unityRelease": "0b5",
+  "category": "foundation",
   "dependencies": {
     "com.bytedance.foundation": "https://github.com/PolarisWang/ByteDanceCommonLibrary.git?path=/com.bytedance.foundation"
   },

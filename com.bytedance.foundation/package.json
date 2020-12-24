@@ -1,13 +1,14 @@
 {
   "name": "com.bytedance.foundation",
   "title": "ByteDance foundation library",
-  "version": "1.0.0-preview",
+  "version": "1.0.1",
   "displayName": "ByteDance Foundation",
   "description": "Foundation Library",
   "unity": "2018.1",
   "unityRelease": "0b5",
+  "category": "foundation",
   "dependencies": {
-   
+
   },
   "keywords": [
     "bytedance",
