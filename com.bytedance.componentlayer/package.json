@@ -1,0 +1,21 @@
+{
+  "name": "com.bytedance.componentlayer",
+  "version": "1.0.0-preview",
+  "displayName": "ByteDance Component Layer",
+  "description": "Component Library",
+  "unity": "2018.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.bytedance.foundation": "1.0.0-preview"
+  },
+  "keywords": [
+    "bytedance",
+    "componentlayer",
+    "agni"
+  ],
+  "author": {
+    "name": "ByteDance Agni Studio",
+    "email": "maynardwolf27@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}

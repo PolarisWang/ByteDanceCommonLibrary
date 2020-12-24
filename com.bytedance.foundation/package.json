@@ -1,0 +1,22 @@
+{
+  "name": "com.bytedance.foundation",
+  "title": "ByteDance foundation library",
+  "version": "1.0.0-preview",
+  "displayName": "ByteDance Foundation",
+  "description": "Foundation Library",
+  "unity": "2018.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+   
+  },
+  "keywords": [
+    "bytedance",
+    "foundation",
+    "agni"
+  ],
+  "author": {
+    "name": "ByteDance Agni Studio",
+    "email": "maynardwolf27@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
